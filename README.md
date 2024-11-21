@@ -5,5 +5,5 @@
 1) Скачать программу [hiddify](https://hiddify.com/).
 2) Запустить её от имени администратора.
 3) В правом верхнем углу нажать на кнопку «Быстрые настройки» и переключиться в режим VPN.
-4) Копируем конфиг https://raw.githubusercontent.com/CherkeyLPN/Purple-Smoke/refs/heads/main/config.json
+4) Скопировать конфиг https://raw.githubusercontent.com/CherkeyLPN/Purple-Smoke/refs/heads/main/config.json
 5) Рядом с быстрыми настройками будет плюсик. Нажимаем на него и выбираем «Добавить из буфера обмена». Готово, осталось только подключиться.
